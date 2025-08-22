@@ -1,1 +1,1 @@
--e "pandas\nnumpy\njupyter\nseaborn\nplotly\nprophet\npulp\nstreamlit\nfastapi\nuvicorn\npytest\npre-commit" 
+pandas numpy jupyter seaborn plotly prophet pulp streamlit fastapi uvicorn pytest pre-commit 

@@ -1,1 +1,12 @@
-pandas numpy jupyter seaborn plotly prophet pulp streamlit fastapi uvicorn pytest pre-commit 
+pandas
+numpy
+jupyter
+seaborn
+plotly
+prophet
+pulp
+streamlit
+fastapi
+uvicorn
+pytest
+pre-commit
